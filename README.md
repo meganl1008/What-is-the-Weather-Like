@@ -8,6 +8,7 @@ I will create a Python script to visualize the weather of 500+ cities across the
 <b> Build a series of scatter plots to showcase the following relationships: </b>
 
 Temperature (F) vs. Latitude
+<img src = "results/latitude_temp.png" width = "60%">
 
 Humidity (%) vs. Latitude
 
