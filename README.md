@@ -30,6 +30,7 @@ Run linear regression on each relationship, only this time separating them into 
 <img src = "results/filter_data.png" width = "60%">
 
 <b> 3. Use Google Places API to find the first hotel for each city located within 5000 meters of your coordinates </b>  <br />
-
+<img src = "results/hotel_name.png" width = "60%">
 
 <b> 4. Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country </b> <br />
+<img src = "results/hotel_heat_map.png" width = "50%">
