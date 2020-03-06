@@ -5,16 +5,20 @@ Utilize APIs to conduct data analysis on weather
 I will create a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I will be utilizing a simple Python library, the OpenWeatherMap API, to create a representative model of weather across world cities
 
 ### Objective #1
-<b> Build a series of scatter plots to showcase the following relationships: </b>
+<b> Build a series of scatter plots to showcase the following relationships: </b> <br />
 
-Temperature (F) vs. Latitude
-<img src = "results/latitude_temp.png" width = "60%">
+Temperature (F) vs. Latitude <br />
+<img src = "results/latitude_temp.png" width = "40%">
 
-Humidity (%) vs. Latitude
+Humidity (%) vs. Latitude <br />
+<img src = "results/latitude_humidity.png" width = "40%">
 
 Cloudiness (%) vs. Latitude
+<img src = "results/latitude_cloudiness.png" width = "40%">
 
 Wind Speed (mph) vs. Latitude
+<img src = "results/latitude_speed.png" width = "40%">
+
 
 ### Objective #2
 Run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
