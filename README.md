@@ -18,3 +18,8 @@ Run linear regression on each relationship, only this time separating them into 
 <img src = "results/regression.png" width = "40%">
 
 ## Part 2: VacationPy
+Use the analysis conducted above on weather to plan future vacations
+
+<b> Create a heat map that displays the humidity for every city from part 1 of the homework </b>
+<img src = "results/global_heat_map.png" width "40%">
+
