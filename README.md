@@ -27,7 +27,7 @@ Run linear regression on each relationship, only this time separating them into 
 - Max temperature lower than 80 degrees but higher than 70
 - Wind speed less than 10 mph
 - Zero cloudiness <br />
-<img src = "results/filter_data.png" width = "40%">
+<img src = "results/filter_data.png" width = "60%">
 
 <b> 3. Use Google Places API to find the first hotel for each city located within 5000 meters of your coordinates </b>  <br />
 
