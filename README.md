@@ -13,11 +13,11 @@ Temperature (F) vs. Latitude <br />
 Humidity (%) vs. Latitude <br />
 <img src = "results/latitude_humidity.png" width = "40%">
 
-Cloudiness (%) vs. Latitude
+Cloudiness (%) vs. Latitude  <br />
 <img src = "results/latitude_cloudiness.png" width = "40%">
 
-Wind Speed (mph) vs. Latitude
-<img src = "results/latitude_speed.png" width = "40%">
+Wind Speed (mph) vs. Latitude  <br />
+<img src = "results/latitude_wind.png" width = "40%">
 
 
 ### Objective #2
