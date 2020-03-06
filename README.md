@@ -20,7 +20,7 @@ Run linear regression on each relationship, only this time separating them into 
 
 After each pair of plots explain what the linear regression is modelling such as any relationships you notice and any other analysis you may have.
 
-## Goal:
+### Goal:
 - Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
 - Perform a weather check on each of the cities using a series of successive API calls.
 - Include a print log of each city as it’s being processed with the city number and city name.
