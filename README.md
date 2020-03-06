@@ -13,8 +13,8 @@ I will create a Python script to visualize the weather of 500+ cities across the
 
 ### Objective #2
 Run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
-
-After each pair of plots explain what the linear regression is modelling such as any relationships you notice and any other analysis you may have.
+Northern Hemisphere - Max Temp vs. Latitude Linear Regression Example Graph below <br />
+<img src = "results/regression.png" width = "40%">
 
 ### Goal:
 - Randomly select at least 500 unique (non-repeat) cities based on latitude and longitude.
