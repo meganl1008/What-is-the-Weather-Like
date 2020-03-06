@@ -7,10 +7,8 @@ I will create a Python script to visualize the weather of 500+ cities across the
 ### Objective #1
 <b> Build a series of scatter plots to showcase the following relationships: </b> <br />
 
-Temperature (F) vs. Latitude  <br />                        Humidity (%) vs. Latitude <br />
 <img src = "results/latitude_temp.png" width = "40%">       <img src = "results/latitude_humidity.png" width = "40%"> <br />
 
-Cloudiness (%) vs. Latitude  <br />                         Wind Speed (mph) vs. Latitude  <br />
 <img src = "results/latitude_cloudiness.png" width = "40%"> <img src = "results/latitude_wind.png" width = "40%">
 
 ### Objective #2
