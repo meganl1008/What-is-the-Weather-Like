@@ -14,7 +14,7 @@ I will create a Python script to visualize the weather of 500+ random cities acr
 ### Objective #2
 Run linear regression on each relationship, only this time separating them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude): <br />
 <b> Example: </b> <br />
-This graph shows Northern Hemisphere - Max Temp vs. Latitude Linear Regression Line <br />
+<b>This graph shows Northern Hemisphere: Max Temp vs. Latitude Linear Regression </b> <br />
 <img src = "results/regression.png" width = "40%">
 
 ## Part 2: VacationPy
