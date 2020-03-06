@@ -18,16 +18,18 @@ Run linear regression on each relationship, only this time separating them into 
 <img src = "results/regression.png" width = "40%">
 
 ## Part 2: VacationPy
-1. Use the analysis conducted above on weather to plan future vacations
+### Objective: Use the analysis conducted above on weather to plan future vacations
 
-<b> Create a heat map that displays the humidity for every city from part 1 of the homework </b> <br />
+<b> 1. Create a heat map that displays the humidity for every city from part 1 of the homework </b> <br />
 <img src = "results/global_heat_map.png" width = "80%">
 
-2. Narrow down the DataFrame to find your ideal weather condition to the following (all 3 conditions must be satisfied) <br />
+<b> 2. Narrow down the DataFrame to find your ideal weather condition to the following (all 3 conditions must be satisfied) </b> <br />
 - Max temperature lower than 80 degrees but higher than 70
 - Wind speed less than 10 mph
 - Zero cloudiness <br />
+<img src = "results/filter_data.png" width = "40%">
 
-3. Use Google Places API to find the first hotel for each city located within 5000 meters of your coordinates <br />
+<b> 3. Use Google Places API to find the first hotel for each city located within 5000 meters of your coordinates </b>  <br />
 
-4. Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country <br />
+
+<b> 4. Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country </b> <br />
